@@ -27,8 +27,9 @@ Hệ thống quản lý đội bóng giúp bạn theo dõi và quản lý các t
 
 Để cài đặt hệ thống, bạn cần làm theo các bước sau:
 
-1. **Tải xuống và cài đặt các phiên bản Java mới nhất** từ trang web chính thức.
-2. **Mở ứng dụng và điền thông tin đăng nhập.**
+1. **Tải xuống và cài đặt các phiên bản Java theo yêu cầu đã ghi trong file note (các phiên bản Java như 2020, 2021, 2022 tức jdk 16, 18, 20)** từ trang web chính thức.
+2. Lưu ý **đối với phiên bản mới nhất 2023 tức jdk 21 có thể bị lỗi**.
+3. **Mở ứng dụng và điền thông tin đăng nhập.**
    - **Tài khoản cho đội ngũ quản lý cầu thủ**:
      - Username: `team5ct`
      - Password: `123`
@@ -41,7 +42,7 @@ Hệ thống quản lý đội bóng giúp bạn theo dõi và quản lý các t
      - Username: `team5`
      - Password: `123`
      - Quyền: Cho phép truy cập vào cả hai mục quản lý cầu thủ và quản lý huấn luyện viên.
-3. **Theo dõi hướng dẫn trên màn hình để hoàn tất quá trình cài đặt.**
+4. **Theo dõi hướng dẫn trên màn hình để hoàn tất quá trình cài đặt.**
 
 <a name="HDSD"></a>
 
